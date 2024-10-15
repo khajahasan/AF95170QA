@@ -1,0 +1,24 @@
+{
+    "AS_Button_fd16a403e64a414fab73dd5bc2d2e3e4": {
+        "id": "AS_Button_fd16a403e64a414fab73dd5bc2d2e3e4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f13694eed281442d8a4ea70962d5c0d6"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "ADD_SNIPPET_d5e4627865304aecb58154b213df4a71",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"App Factory Testing 9.5.17.0\");",
+            "parentId": null
+        }]
+    }
+}
